@@ -1,14 +1,14 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
+  "name": "✦ abeeth XD✦",
   "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["abeeth XD"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID": {"MALVIN-XD~l0BlhDQR#F3AKTkK2pdDQjTBXj7wPSlfYNiZKERWE9MVl6jOoek8"}
+      "description": "MALVIN-XD~l0BlhDQR#F3AKTkK2pdDQjTBXj7wPSlfYNiZKERWE9MVl6jOoek8"
       "required": true,
       "value": ""
     },  
@@ -28,8 +28,8 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
-    },
+      "value": "> ✦ abeeth XD is alive now 🌹💗 "
+    }
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -53,14 +53,14 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": true"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -96,13 +96,13 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
+      "value": "*🎉👀Status Seen by abeeth xd v2🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "abeeth XD "
       
      }, 
 
@@ -116,7 +116,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
+      "value": "abeeth XD"
 
       }, 
 
@@ -129,37 +129,37 @@
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ by abeeth XD whatsapp ai bot *"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
       "FAKE_TYPING": {
       "description": "Make it true for fake typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "CURRENT_STATUS": {
@@ -170,21 +170,21 @@
     
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
-    "OWNER_REACT": {
+    "OWNER_REACT": {abeeth XD 🧀}
       "description": "Make it true if you only want react on Owner Massages.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
       
     }, 
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
       }, 
     
     "ANTI_DEL_PATH": {
