@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here.",MALVIN-XD~ttRUCLzK#gAzcW7P7syQQWIV6KQ0eqfQ6XX7oA3sNi4FCpPAHUjY
       "required": true,
       "value": ""
     },  
@@ -19,7 +19,7 @@
       "value": "https://files.catbox.moe/gld2vo.jpg"
     }, 
     
-    "ALIVE_IMG": {
+    "ALIVE_IMG": {v2
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
       "value": "https://files.catbox.moe/ktd1l4.jpg"
