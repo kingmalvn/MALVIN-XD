@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~l0BlhDQR#F3AKTkK2pdDQjTBXj7wPSlfYNiZKERWE9MVl6jOoek8",
       "required": true,
       "value": ""
     },  
@@ -53,20 +53,20 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true,
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -95,7 +95,7 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
     }, 
 
@@ -147,19 +147,19 @@
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
       "FAKE_TYPING": {
       "description": "Make it true for fake typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "CURRENT_STATUS": {
@@ -170,8 +170,8 @@
     
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍,
     },
 
     "OWNER_REACT": {
