@@ -8,52 +8,52 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~E4QD2abB#0l7Oyjmpzmj2qQt3BAFBKp6YL81RWjYF1tTfSo1DIns",
       "required": true,
       "value": ""
     },  
     
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
-      "required": false,
+      "required": true ,
       "value": "https://files.catbox.moe/gld2vo.jpg"
     }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
-      "required": false,
+      "required": true,
       "value": "https://files.catbox.moe/ktd1l4.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
-      "required": false,
+      "required": true,
       "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
+      "required": true,
       "value": "."
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
-      "required": false,
+      "required": true ,
       "value": "public"
       
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
-      "required": false,
+      "required": true,
       "value": "✦MALVIN-XD✦"
     },
     
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
       "value": "false"  
     },    
   
@@ -65,14 +65,14 @@
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_STATUS_SEEN": {
@@ -109,7 +109,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "923218909234"
 
     }, 
 
